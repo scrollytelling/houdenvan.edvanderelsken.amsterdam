@@ -1,0 +1,11 @@
+/
+  Link: </scrollytelling.link/assets/pageflow/application-f65875c11d3b7f87bd5a9f8d906d1aae54777417070ff79ee6824ddab396d6d0.css>; rel=preload; as=style
+  Link: </scrollytelling.link/assets/pageflow/themes/ed-7cbaddb2febef8d738f3e97ce352e3656cb17f0b84d5481e6c1ac62827bbe484.css>; rel=preload; as=style
+  Link: </scrollytelling.link/entries/ednu.css?p=0.11.3&v=pageflow%2Frevisions%2F13789-20170812124902000000000>; rel=preload; as=style
+  Link: </scrollytelling.link/assets/pageflow/print_view-adde1ac0765d1c429899b05f3ebd3f9779c4dfbf5afc9a6cce60cc5faafc6236.css>; rel=preload; as=style
+  Link: </scrollytelling.link/assets/pageflow/application-6ac169f6c34857d7d9091b9a3968f0458c8a1328cd456ba63c3bb642761bb1c5.js>; rel=preload; as=script
+  Cache-Control: public, max-age=86400
+/scrollytelling.link/*
+  Cache-Control: public, max-age=31536000
+/media.scrollytelling.io/*
+  Cache-Control: public, max-age=31536000
